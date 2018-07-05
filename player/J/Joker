@@ -1,0 +1,178 @@
+#PLAYER
+Name         Joker~
+ShortDescr   ~
+LongDescr    ~
+Description  ~
+Lord         ~
+Clan         GODS~
+Morph        ~
+Createtime   Wed Jul 11 00:00:00 2001~
+Lasttime     Wed Jul 11 00:00:00 2001
+~
+Lasthost     bb13~
+Poweraction  ~
+Powertype    ~
+Sex          1
+Class        0
+Race         0
+Immune       4186111
+Polyaff      0
+Itemaffect   0
+Vampaff      73089
+Vamppass     67840
+Form         32767
+Beast        0
+Vampgen      1
+Spectype     4
+Specpower    0
+Home         20006
+Level        9
+Trust        9
+Played       8
+Room         3001
+PkPdMkMd     0 0 0 0
+Weapons      200 200 200 200 200 200 200 200 200 200 200 200 200
+Spells       200 200 200 200 200
+Combat       0 0 0 0 0 0 0 0
+Stance       -1 200 200 200 200 200 200 200 200 200 200
+Locationhp   0 0 0 0 0 0 0
+HpManaMove   30000 30000 30000 30000 30000 30000
+Gold         9690
+Bank         0
+Exp          1000
+Act          67262280
+Extra        140
+AffectedBy   524288
+Position     7
+Practice     0
+SavingThrow  -12
+Alignment    0
+Hitroll      12
+Damroll      0
+Armor        116
+Wimpy        0
+Deaf         0
+LagPenalty   0
+Password     joker~
+Email        ~
+Bamfin       Joker enters~
+Bamfout      Joker leaves~
+Title         the multipersona~
+AttrPerm     18 18 18 18 18
+AttrMod      0 0 4 0 0
+Quest        19120
+Condition    0 100 100
+Skill        100 'acid blast'
+Skill        100 'armor'
+Skill        100 'bless'
+Skill        100 'blindness'
+Skill        100 'burning hands'
+Skill        100 'call lightning'
+Skill        100 'cause critical'
+Skill        100 'cause light'
+Skill        100 'cause serious'
+Skill        100 'change sex'
+Skill        100 'charm person'
+Skill        100 'chill touch'
+Skill        100 'colour spray'
+Skill        100 'continual light'
+Skill        100 'control weather'
+Skill        100 'create food'
+Skill        100 'create spring'
+Skill        100 'create water'
+Skill        100 'cure blindness'
+Skill        100 'cure critical'
+Skill        100 'cure light'
+Skill        100 'cure poison'
+Skill        100 'cure serious'
+Skill        100 'curse'
+Skill        100 'detect evil'
+Skill        100 'detect hidden'
+Skill        100 'detect invis'
+Skill        100 'detect magic'
+Skill        100 'detect poison'
+Skill        100 'dispel evil'
+Skill        100 'dispel magic'
+Skill        100 'earthquake'
+Skill        100 'enchant weapon'
+Skill        100 'energy drain'
+Skill        100 'faerie fire'
+Skill        100 'faerie fog'
+Skill        100 'fireball'
+Skill        100 'flamestrike'
+Skill        100 'fly'
+Skill        100 'gate'
+Skill        100 'giant strength'
+Skill        100 'harm'
+Skill        100 'heal'
+Skill        100 'identify'
+Skill        100 'infravision'
+Skill        100 'invis'
+Skill        100 'know alignment'
+Skill        100 'lightning bolt'
+Skill        100 'locate object'
+Skill        100 'magic missile'
+Skill        100 'mass invis'
+Skill        100 'pass door'
+Skill        100 'poison'
+Skill        100 'protection'
+Skill        100 'refresh'
+Skill        100 'remove curse'
+Skill        100 'sanctuary'
+Skill        100 'shield'
+Skill        100 'shocking grasp'
+Skill        100 'sleep'
+Skill        100 'stone skin'
+Skill        100 'summon'
+Skill        100 'teleport'
+Skill        100 'ventriloquate'
+Skill        100 'weaken'
+Skill        100 'acid breath'
+Skill        100 'fire breath'
+Skill        100 'frost breath'
+Skill        100 'gas breath'
+Skill        100 'lightning breath'
+Skill        100 'backstab'
+Skill        100 'disarm'
+Skill        100 'hide'
+Skill        100 'hurl'
+Skill        100 'kick'
+Skill        100 'peek'
+Skill        100 'pick lock'
+Skill        100 'rescue'
+Skill        100 'sneak'
+Skill        100 'steal'
+Skill        100 'general purpose'
+Skill        100 'high explosive'
+Skill        100 'guardian'
+Skill        100 'soulblade'
+Skill        100 'mana'
+Skill        100 'frenzy'
+Skill        100 'darkblessing'
+Skill        100 'portal'
+Skill        100 'voodoo'
+Skill        100 'transport'
+Skill        100 'regenerate'
+Skill        100 'clot'
+Skill        100 'mend'
+Skill        100 'punch'
+Skill        100 'quest'
+Skill        100 'minor creation'
+Skill        100 'brew'
+Skill        100 'scribe'
+Skill        100 'carve'
+Skill        100 'engrave'
+Skill        100 'bake'
+Skill        100 'mount'
+Skill        100 'berserk'
+Skill        100 'fastdraw'
+Skill        100 'hunt'
+Skill        100 'scan'
+Skill        100 'repair'
+Skill        100 'spellproof'
+Skill        100 'clone'
+Skill        100 'reveal'
+End
+
+#END
+<CODER> Last logged in on Wed Jul 11 00:00:00 2001
